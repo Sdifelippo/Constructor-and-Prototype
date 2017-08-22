@@ -14,7 +14,7 @@ function Dog (status, color, hungry, owner) {
   this.owner = owner;
 }
 
- sadie = new Dog ('normal', 'black', false, 'mason');
+ Sadie = new Dog ('normal', 'black', false, 'mason');
  moonshine = new Dog ('normal', 'brown', true);
  atticus = new Dog('normal', 'brindle');
 // Instances of Dog
